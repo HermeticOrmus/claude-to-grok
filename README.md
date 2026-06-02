@@ -34,7 +34,7 @@ The complete public toolkit for users and teams moving (or hybrid-using) from An
    - [ormus-explore](https://github.com/HermeticOrmus/ormus-explore) (efficient code understanding)
 
 3. **Install the new foundation**
-   - [grok-code-skills](https://github.com/HermeticOrmus/grok-code-skills) (general Grok-native collection)
+   - [grok-build-skills](https://github.com/HermeticOrmus/grok-build-skills) (general Grok-native collection)
    - [grok-skills](https://github.com/HermeticOrmus/grok-skills) (Hermetic/Ormus layer)
    - Core individuals: calcinate (bloat burn), prime (meta entry), create-skill, distill, ship, etc.
 
@@ -56,7 +56,7 @@ cd ~/old-claude-project
 # review EXORCISM-PLAN.md, approve...
 
 # 2. Install Grok collections (or specific skills)
-git clone https://github.com/HermeticOrmus/grok-code-skills ~/.grok/skills/grok-code-skills
+git clone https://github.com/HermeticOrmus/grok-build-skills ~/.grok/skills/grok-build-skills
 git clone https://github.com/HermeticOrmus/grok-skills ~/.grok/skills/grok-skills
 
 # 3. Continuity (if not already)
@@ -84,7 +84,7 @@ This set gives you:
 ## Existing Public Pieces (All HermeticOrmus)
 
 - claude-exorcist (this bridge)
-- grok-code-skills / grok-skills (the new homes)
+- grok-build-skills / grok-skills (the new homes)
 - calcinate-skills + vibe-proof-skills
 - claude-code-skills (original, with migration pointers)
 - ormus-handoff / pickup / absorb / explore / vibe-proof / meta-prompting (and more)
