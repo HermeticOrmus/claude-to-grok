@@ -5,7 +5,7 @@
 <h1 align="center">Claude to Grok</h1>
 
 <p align="center">
-  <em>Clean, continuous, and more powerful migration from Claude Code to xAI Grok. The on-ramp suite under Hermetic Ormus.</em>
+  <em>Clean, continuous, and more powerful migration from Claude Code to xAI Grok Build. The on-ramp suite under Hermetic Ormus.</em>
 </p>
 
 <p align="center">
