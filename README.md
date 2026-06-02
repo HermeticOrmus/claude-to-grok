@@ -86,7 +86,7 @@ This set gives you:
 - claude-exorcist (this bridge)
 - grok-build-skills / grok-skills (the new homes)
 - grok-build-reality-os (full doctrine + official Grok Build guides + starter)
-- grok-build-personal-assistant (Grok Build as your personal computer assistant: daily briefs, task orchestration, comms, memory, agents/MCP)
+- grok-build-personal-assistant (Grok Build as your personal computer assistant: daily briefs, task orchestration, comms, memory, file mgmt, terminal control (ormus-term), voice processing (ormus-voice), agents/MCP, integrates all ormus personal tools)
 - calcinate-skills + vibe-proof-skills
 - claude-code-skills (original, with migration pointers)
 - ormus-handoff / pickup / absorb / explore / vibe-proof / meta-prompting (and more)
