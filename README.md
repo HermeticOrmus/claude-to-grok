@@ -103,6 +103,27 @@ The same process as claude-exorcist:
 
 See the parent collections' CONTRIBUTING and the Reality OS AGENTS.md.
 
+## Ongoing Grok Build Centric Product Opportunities
+
+We are actively looking for and shipping more Grok-native products built on the same foundation (exorcist + collections + reality-os doctrine):
+
+- Standalone public repos for prime, create-skill, meta-build, ship, distill, best-of-n, check-work, help (with full Hermetic branding and Grok Build examples).
+- Enhanced MCP and subagent catalogs (leveraging the detailed official guides in grok-build-reality-os).
+- Domain-specific kits: e.g. Grok Build for alchemical/Hermetic work (full Magnum Opus pipeline with calcinate as entry), game dev, docs automation (docx/pptx/xlsx skills), client work (raven-prime etc.).
+- Polished "Grok Build for Builders / CEOs" guide (Grok-native evolution of claude-code-for-ceos).
+- Skill marketplace / index repo that curates and verifies high-quality Grok Build skills.
+- Tools for headless Grok Build, plan-mode orchestration, background task management.
+- Integration products: Grok Build + WhatsApp (pull/push), Google Drive/Docs toolkits, pixel art, learning systems (meta-learning, SkillGarden).
+- Fixes and re-branding of legacy Claude repos (claude-code-skills, LibreUIUX, etc.) with clear "Grok Build ports available" and migration paths.
+
+All new products follow:
+- Official Grok Build surface (skills in ~/.grok/skills/, AGENTS.md, MCP, subagents, plan mode).
+- Hermetic Ormus branding and Gold Hat.
+- Direct, truth-seeking voice (no Claude theater).
+- Public under HermeticOrmus for easy git clone adoption.
+
+Contribute ideas or PRs to claude-to-grok or open new repos following the pattern.
+
 ## License
 
 MIT © 2026 Diego Bodart — see [LICENSE](LICENSE). Built under the [Gold Hat principle](GOLD_HAT.md).
